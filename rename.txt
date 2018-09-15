@@ -6,3 +6,6 @@ second changed
 Creating a new branch is quick and Simple.
 Add merge
 My work finish yet.
+Feature1 is Developing
+Dev is Developing.
+Master is Developing
