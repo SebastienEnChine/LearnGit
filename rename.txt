@@ -3,4 +3,4 @@ Git is free software.
 add some content...
 manage changed
 second changed
-Creating a new branch is quick & Simple.
+Creating a new branch is quick and Simple.
